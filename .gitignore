@@ -1,0 +1,13 @@
+# Jugadores: se genera al jugar, no se sube
+data/jugadores.dat
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Sistema
+.DS_Store
+Thumbs.db
+.vscode/
